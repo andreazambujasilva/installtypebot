@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Configuração automática da timezone para São Paulo
 echo "Configurando a timezone para São Paulo..."
 echo "America/Sao_Paulo" | sudo tee /etc/timezone
