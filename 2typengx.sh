@@ -1,5 +1,4 @@
-
-    # Função para configurar o TypeBot
+# Função para configurar o TypeBot
     echo "Agora vamos configurar o Typebot para rodar em Docker"
 echo ""
 while true; do
