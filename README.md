@@ -1,3 +1,1 @@
 # installtypebot
-# installtypebot
-# installtypebot
