@@ -1,1 +1,3 @@
-# instalação do completa
+# installtypebot
+# installtypebot
+# installtypebot
