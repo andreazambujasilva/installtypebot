@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Pergunta pelo endereço IP da VPS
 read -p "Digite o endereço IP da sua VPS: " ip_vps
 
