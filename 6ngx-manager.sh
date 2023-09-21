@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Função para verificar se o usuário é root (sudo)
 check_root() {
   if [[ $EUID -ne 0 ]]; then
