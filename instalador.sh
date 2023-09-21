@@ -1,4 +1,3 @@
-# Função para exibir o menu
 display_menu() {
   echo "===================================="
   echo "        Instalador Automático       "
