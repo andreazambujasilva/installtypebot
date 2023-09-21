@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Atualiza e atualiza o sistema
 sudo apt update -y && sudo apt upgrade -y
 
