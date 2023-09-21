@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Função para coletar uma variável com confirmação
 function coletar_com_confirmacao() {
   local mensagem="$1"
