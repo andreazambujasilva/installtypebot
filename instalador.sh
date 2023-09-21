@@ -1,5 +1,3 @@
-#!/bin/bash
-
 sudo ln -s /caminho/para/seu/instalador.sh /usr/local/bin/menu
 
 # Função para exibir o menu
